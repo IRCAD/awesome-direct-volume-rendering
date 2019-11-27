@@ -56,7 +56,10 @@ A curated list of awesome Direct Volume Rendering articles, software and resourc
 
 ### Ultrasound
 
-- **The ultrasound visualization pipeline** (2014), Å. Birkeland [pdf](https://pdfs.semanticscholar.org/b713/ccf2c88e73e951489cc89ecc1381a7e425fd.pdf)
+- **The ultrasound visualization pipeline** (2014), Å. Birkeland et al. [pdf](https://pdfs.semanticscholar.org/b713/ccf2c88e73e951489cc89ecc1381a7e425fd.pdf)
+- **Feature Emphasis and Contextual Cutaways for Multimodal Medical Visualization** (2007), M. Burns et al.  [pdf](https://gfx.cs.princeton.edu/pubs/Burns_2007_FEA/contextual_cutaways.pdf)
+- **New flexible multi-volume rendering technique for ultrasound imaging. Medical Imaging** (2009), E.H. Kim et al.
+[Research Gate](https://www.researchgate.net/publication/252244444_New_flexible_multi-volume_rendering_technique_for_ultrasound_imaging)
 
 ## Interaction
 
